@@ -2,7 +2,7 @@
 
 I'm passionate Full Stack web developer from little country in the middle of Europe called slovakia.
 
-## Technologies
+## Technologies 💻
 <p>
    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node-dot-js&logoColor=white" />
   <img alt="dotnet" src="https://img.shields.io/badge/-.Net-512BD4?style=flat-square&logo=dot-net&logoColor=white" />
